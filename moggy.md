@@ -4,4 +4,5 @@
 
 '''
 some code
-''
+goto 10;
+'''
